@@ -1,2 +1,2 @@
-## Aquí dejarás tu documentación, por qué decidiste realizar esas optimización y cómo resolvistes los ejercicios de lógica...
-Em el programa no se encontraron fallas sintaxicas s
+Se agergaron braks necesarios 
+Se eliminaron if repetidos 
